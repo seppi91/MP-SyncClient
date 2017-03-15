@@ -1,0 +1,7 @@
+Changelog V1.1 -> 1.2
++ FIXED: Standby jetzt über TCP statt über psshutdown.exe
+
+Changelog V1.0 -> 1.1
++ FEATURE: WOL eines Fileservers
++ FIXED: Resume-Func.
++ FIXED: WaitForConnection-Func
